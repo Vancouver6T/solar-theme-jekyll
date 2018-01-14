@@ -6,5 +6,5 @@ permalink: /:year/:month/:day/:title/
 paginate: 10
 highlighter: rouge
 
-gems: [jekyll-paginate, github-pages, jekyll-feed, jemoji]
+gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
